@@ -9,7 +9,7 @@
 
 可参考issue的[提交方法](https://blog.csdn.net/qq_42475711/article/details/105074169)。
 
-最新版v2.6.4下载：[GitHub（较慢）](https://github.com/fivefirex/TheOtherRolesX/releases/latest) [蓝奏云（建议）](https://laoli233.lanzout.com/b00penl2b) 
+最新版v2.6.4下载：[GitHub（较慢）](https://github.com/FFxFc/TownOfUs/releases/tag/v2.6.4) [蓝奏云（建议）](https://laoli233.lanzout.com/b00penl2b) 
 在steam中找到`Among Us`的安装目录，将mod解压到此目录即可。
 
 ## 职业小镇简介
