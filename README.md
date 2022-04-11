@@ -2,6 +2,7 @@
 汉化工作室主页：[风尘汉化](https://www.amonguscn.cn)
 汉化版中文论坛：[FiveFireX提供](https://fivefirex.freeflarum.com/)
 汉化版QQ群：`830592624`
+汉化版Discord（加不上QQ时可选）：`https://discord.gg/hK5BAm2gXq`
 
 ## 快速开始
 
