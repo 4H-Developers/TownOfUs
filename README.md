@@ -1,3 +1,6 @@
+# End-Of-Life 说明
+自2022.05.27起，此仓库将不再受任何支持。若想了解后续情况，请加QQ群或前往[新的仓库](https://github.com/RamboPlayCom/TownOfUsX_RamboPlay)
+
 原模组项目地址：[源项目爆炸了所以木有]
 汉化工作室主页：[风尘汉化](https://www.amonguscn.cn)
 汉化版中文论坛：[FiveFireX提供](https://fivefirex.freeflarum.com/)
